@@ -1,6 +1,12 @@
 # AngularFirebaseStarter
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+This project is a simple Material UI app built on Angular for the Firebase platform.
+
+## Installation
+
+```shell script
+git clone 
+```
 
 ## Development server
 
